@@ -7,4 +7,4 @@ This code is error free, but you still got an error then mail me by writting sub
 ##Output:
 Home page- <br>
 
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/1.PNG" alt="output_Home_page" height="300px" width="400px" />
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/1.PNG" alt="output_Home_page" />
