@@ -9,3 +9,9 @@ This code is error free, but you still got an error then mail me by writting sub
 Home page- <br>
 
 <img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/1.PNG" alt="output_Home_page" />
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/2.PNG" alt="output_Home_page" />
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/3.PNG" alt="output_Home_page" />
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/4.1.PNG" alt="output_Home_page" />
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/4.2.PNG" alt="output_Home_page" />
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/5.PNG" alt="output_Home_page" />
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/6.PNG" alt="output_Home_page" />
