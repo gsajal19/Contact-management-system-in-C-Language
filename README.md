@@ -6,7 +6,8 @@ This code is error free, but you still got an error then mail me by writting sub
 <br>
 ## Output:
 
---------------------------------------Home page-------------------------------------------<br>
+*************************************** Home page *************************************************8
+<br><br>
 <img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/1.PNG" alt="output_Home_page" align="center" />
 <br>---------------------------------Add a Contact-----------------------------------------<br>
 <img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/2.PNG" alt="output_Home_page" />
