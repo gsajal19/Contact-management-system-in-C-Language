@@ -1,4 +1,4 @@
-
+https://sajalgupta19.github.io/Contact-management-system-in-C-Language/#output
 
 This Code is Written in C language.This program works Same as Our mobile Contact Application Works.<br>
 This code is error free, but you still got an error then mail me by writting subject "CMS error" and mension error. <a href="mailto:contact.code4xu@gmail.com">Contact</a>
@@ -6,19 +6,18 @@ This code is error free, but you still got an error then mail me by writting sub
 <br>
 ## Output:
 
-****************************** Home page ******************************************
+<center> ****************************** Home page ******************************************</center>
 <br><br>
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/1.PNG" alt="output_Home_page" align="center" /><br>
-****************************** Home page ******************************************<br><br>
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/2.PNG" alt="output_Home_page" /><br>
-****************************** Home page ******************************************<br><br>
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/3.PNG" alt="output_Home_page" /><br>
-****************************** Home page ******************************************<br><br>
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/4.1.PNG" alt="output_Home_page" /><br>
-****************************** Home page ******************************************<br><br>
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/4.2.PNG" alt="output_Home_page" /><br>
-****************************** Home page ******************************************<br><br>
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/5.PNG" alt="output_Home_page" /><br>
-****************************** Home page ******************************************<br><br>
-<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/6.PNG" alt="output_Home_page" /><br>
-****************************** Home page ******************************************<br><br>
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/1.PNG" alt="output_Home_page" align="center" /><br><br>
+<center> ****************************** Home page ******************************************</center><br><br>
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/2.PNG" alt="output_Home_page" /><br><br>
+<center> ****************************** Home page ******************************************</center><br><br>
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/3.PNG" alt="output_Home_page" /><br><br>
+<center> ****************************** Home page ******************************************</center><br><br>
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/4.1.PNG" alt="output_Home_page" /><br><br>
+<center> ****************************** Home page ******************************************</center><br><br>
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/4.2.PNG" alt="output_Home_page" /><br><br>
+<center> ****************************** Home page ******************************************</center><br><br>
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/5.PNG" alt="output_Home_page" /><br><br>
+<center> ****************************** Home page ******************************************</center><br><br>
+<img src="https://sajalgupta19.github.io/Contact-management-system-in-C-Language/icons/6.PNG" alt="output_Home_page" /><br><br>
